@@ -1,4 +1,4 @@
-# Restaurant AI Agent - Clean Project
+# Restaurant AI Agent
 
 ## Quick Start
 
